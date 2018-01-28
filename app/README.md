@@ -1,5 +1,4 @@
 ### CanvasEditor
-
 ## Backend Stack:
 
 * Node, Express;
